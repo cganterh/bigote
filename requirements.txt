@@ -357,6 +357,8 @@ wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
     # via bleach
+wheel==0.36.2
+    # via -r requirements.in
 widgetsnbextension==3.5.1
     # via ipywidgets
 
