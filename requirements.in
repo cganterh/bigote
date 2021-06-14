@@ -33,4 +33,5 @@ pytest-cov
 pytest-flake8
 pytest-mypy
 setuptools_scm
+twine
 wheel
